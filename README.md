@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theamiri
-- 👀 I’m interested in Flutter and Mobile App Development
+- 👀 I develop Application Uisng Flutter for frontEnd and expressJS + mongodb for BackEnd
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : amiri.abdelghafour@gmail.com
