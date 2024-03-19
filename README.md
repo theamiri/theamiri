@@ -7,7 +7,7 @@ I'm a passionate developer who specializes in creating Flutter applications usin
 
 💞️ I'm eager to collaborate on open-source projects and contribute to the thriving developer community. Working together on exciting projects not only allows us to create something meaningful but also fosters knowledge sharing and growth.
 
-📫 Feel free to reach out to me at amiri.abdelghafour@gmail.com. Whether it's discussing potential collaborations, sharing ideas, or connecting with fellow developers, I'm always open to engaging in meaningful conversations.
+📫 Feel free to reach out to me at mailtheamiri@gmail.com. Whether it's discussing potential collaborations, sharing ideas, or connecting with fellow developers, I'm always open to engaging in meaningful conversations.
 
 
 
